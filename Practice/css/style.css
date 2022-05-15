@@ -1,0 +1,50 @@
+h1,
+h2,
+h3,
+p {
+  font-family: serif, sans-serif, arial;
+}
+header {
+  background-color: rgba(211, 211, 211, 0.5);
+  font-variant: small-caps;
+  text-align: center;
+  padding: 30px;
+}
+
+p {
+  line-height: 1.5px;
+}
+h3 {
+  margin: 10px, 20px;
+}
+article {
+  background-color: rgba(168, 188, 231, 0.514);
+}
+aside {
+  border: groove;
+  border-width: 5px;
+  border-color: rgb(12, 10, 10);
+}
+aside h3 {
+  background-color: rgba(203, 155, 235, 0.5);
+  text-align: center;
+  margin-top: 0;
+  padding: 15px;
+}
+div {
+  display: inline-block;
+  margin-right: 20px;
+  text-align: justify;
+}
+section {
+  display: inline-block;
+}
+a {
+  text-decoration: none;
+  background-color: rgba(39, 38, 38, 0.781);
+  color: rgba(255, 0, 0, 0.822);
+}
+a:hover {
+  background-color: rgba(275, 275, 275, 1);
+  color: rgba(0, 0, 0, 1);
+}
